@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22841d4a-6324-49dc-8e89-b1f7e2ab5398" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr/rooms/defne.html" beforeDir="false" afterPath="$PROJECT_DIR$/tr/rooms/defne.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr/rooms/deniz.html" beforeDir="false" afterPath="$PROJECT_DIR$/tr/rooms/deniz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr/rooms/duru.html" beforeDir="false" afterPath="$PROJECT_DIR$/tr/rooms/duru.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr/rooms/efe.html" beforeDir="false" afterPath="$PROJECT_DIR$/tr/rooms/efe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr/rooms/eysan.html" beforeDir="false" afterPath="$PROJECT_DIR$/tr/rooms/eysan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr/rooms/naz.html" beforeDir="false" afterPath="$PROJECT_DIR$/tr/rooms/naz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr/rooms/suleyman.html" beforeDir="false" afterPath="$PROJECT_DIR$/tr/rooms/suleyman.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr/rooms/sureyya.html" beforeDir="false" afterPath="$PROJECT_DIR$/tr/rooms/sureyya.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr/rooms/tugra.html" beforeDir="false" afterPath="$PROJECT_DIR$/tr/rooms/tugra.html" afterDir="false" />
-    </list>
+    <list default="true" id="22841d4a-6324-49dc-8e89-b1f7e2ab5398" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1767087666377</updated>
-      <workItem from="1767087668001" duration="1377000" />
+      <workItem from="1767087668001" duration="1531000" />
     </task>
     <servers />
   </component>
