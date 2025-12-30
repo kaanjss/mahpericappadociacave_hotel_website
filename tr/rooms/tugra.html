@@ -44,7 +44,7 @@
         <div class="lang-switch">
           <a href="#" class="active">TR</a>
           <span class="sep">|</span>
-          <a href="/mahpericappadociacave_hotel_website/rooms/tugra.html" class="">EN</a>
+          <a href="/rooms/tugra.html" class="">EN</a>
         </div>
         <div class="book-container">
           <a href="https://www.reseliva.com/booknow/Mahperi-Cappadocia-Cave-Suit/?&pCurrency=TRY" target="_blank"
@@ -209,8 +209,7 @@
         </div>
         <div class="footer-map-col">
           <div class="lang-switch">
-            <a href="#" class="active">TR</a> | <a href="/mahpericappadociacave_hotel_website/rooms/tugra.html"
-              class="">EN</a>
+            <a href="#" class="active">TR</a> | <a href="/rooms/tugra.html" class="">EN</a>
           </div>
         </div>
       </div>
@@ -292,8 +291,7 @@
                   alt="360 View" style="width: 50px; height: 50px; vertical-align: middle;"></a>
             </div>
             <div class="menu-lang-switch">
-              <a href="#" class="active">TR</a> | <a href="/mahpericappadociacave_hotel_website/rooms/tugra.html"
-                class="">EN</a>
+              <a href="#" class="active">TR</a> | <a href="/rooms/tugra.html" class="">EN</a>
             </div>
           </div>
         </div>
@@ -315,7 +313,7 @@
 
       if (galleryImages.length > 0) {
         const updateImage = () => {
-          imgElement.src = `gallery/${roomKey}/${galleryImages[currentIndex]}`;
+          imgElement.src = `${basePath}/rooms/gallery/${roomKey}/${galleryImages[currentIndex]}`;
         };
 
         prevBtn.addEventListener('click', (e) => {
@@ -363,7 +361,7 @@
       }
 
       function updateLightboxImage() {
-        const newSrc = `/rooms/social/tugra/${socialImages[lightboxIndex]}`;
+        const newSrc = `${basePath}/rooms/social/tugra/${socialImages[lightboxIndex]}`;
         lightboxImg.style.opacity = '0';
         setTimeout(() => {
           lightboxImg.src = newSrc;
